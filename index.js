@@ -1,4 +1,3 @@
-import "./styles.css";
 const grid = document.querySelector(".grid");
 
 for (let i = 0; i < 100; i++) {
